@@ -23,12 +23,6 @@
 - 💼 I'm a Developer at Madagascar
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <a href="https://www.flask.com/">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-3A75B0?style=for-the-badge&logo=java&logoColor=white">
-  </a>
   <a href="https://laravel.com/">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F03E30?style=for-the-badge&logo=laravel&logoColor=white">
   </a>
@@ -47,6 +41,25 @@
   <a href="https://fastapi.tiangolo.com/">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white">
   </a>
+  <a href="https://www.linux.org/">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-676d69?style=for-the-badge&logo=linux&logoColor=white">
+  </a>
+<a href="https://www.flask.com/">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  </a>
+<a href="https://www.postgresql.org/" target="_blank"> 
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-6497C1?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white">
+  </a>
+  <a href="https://symfony.com/" target="_blank"> 
+    <img alt="Symfony" src="https://img.shields.io/badge/Symfony-5B21B6?style=for-the-badge&logo=symfony&logoColor=white">
+  </a>
+  <a href="https://www.elastic.co" target="_blank"> 
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-7DE2D1?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  </a>
+  
   
 
   
@@ -62,18 +75,12 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Stéphane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chan-stephane&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chan-stephane&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chan-stephane&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chan-stephane" height="192px"/>
   <br/>
   </p>
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/chan-stephane"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chan-stephane&custom_title=Stephane's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
+
+<a href="https://www.buymeacoffee.com/chanstephane" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
