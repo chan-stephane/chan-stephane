@@ -1,4 +1,4 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hi there! <img src = "./assets/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -22,7 +22,7 @@
 - 👋 Hi, I’m Stéphane
 - 💼 I'm a Developer at Madagascar
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src= "./assets/skill.gif" width = 32px> </h2>
   <a href="https://laravel.com/">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F03E30?style=for-the-badge&logo=laravel&logoColor=white">
   </a>
@@ -62,11 +62,23 @@
   
   
 
-  
+<h2> Want to collaborate ? Please contact me <img src="./assets/handshakes.gif" width=35px> </h2>
 
-  
+<a href="https://www.linkedin.com/in/chan-stephane" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Stéphane-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+</a>
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+
+<a href="mailto:chkstephane32@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Stéphane-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
+</a>
+
+
+<a href="https://chan-stephane.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio:  Stéphane-%23EA4335.svg?color=38cf89&style=for-the-badge&logo=portfolio&logoColor=white" t=mail/>
+</a>
+
+<h2> Github Stats (Expand to View) <img src = "./assets/stats.gif" width = 35px> </h2>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
