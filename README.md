@@ -74,7 +74,7 @@
 </a>
 
 
-<a href="https://chan-stephane.github.io" target="_blank">
+<a href="https://www.chan-stephane.me" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio:  Stéphane-%23EA4335.svg?color=38cf89&style=for-the-badge&logo=portfolio&logoColor=white" t=mail/>
 </a>
 
