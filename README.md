@@ -3,22 +3,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fjalla+One&pause=1000&color=53ACF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile;I'm+a+Software+Engineer;I'm+a+Data+%26+ML+Engineer;I'm+St%C3%A9phane+CHAN+HIOU+KONG" alt="Typing SVG" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=53ACF7&&width=435&lines=Welcome+to+my+Github+Profile;I'm+a+Software+Engineer;I'm+a+Data+%26+ML+Engineer;I'm+St%C3%A9phane+CHAN+HIOU+KONG" alt="Typing SVG" /></a>
 </p>
-
-   <!-- <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-   <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>  
-  <a href="https://www.kaggle.com/aastha124" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a>  
- <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a> -->
-  
 - 👋 Hi, I’m Stéphane
 - 💼 I'm a Software Engineer, Data & ML Engineer and  at Madagascar
 
