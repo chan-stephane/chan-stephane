@@ -5,8 +5,13 @@
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=53ACF7&&width=435&lines=Welcome+to+my+Github+Profile;I'm+a+Software+Engineer;I'm+a+Data+%26+ML+Engineer;I'm+St%C3%A9phane+CHAN+HIOU+KONG" alt="Typing SVG" /></a>
 </p>
-- 👋 Hi, I’m Stéphane
-- 💼 I'm a Software Engineer, Data & ML Engineer and  at Madagascar
+
+<ul>
+  <li>👋 Hi, I’m Stéphane</li>
+  <li>💼 I'm a Software Engineer, Data &amp; ML Engineer and at Madagascar</li>
+</ul>
+
+![](https://komarev.com/ghpvc/?username=chan-stephane&abbreviated=true)
 
 <h2> Skills <img src= "./assets/skill.gif" width = 32px> </h2>
   <a href="https://laravel.com/">
